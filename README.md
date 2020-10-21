@@ -20,7 +20,7 @@ Repo for the Udemy Course: Automate the Boring Stuff with Python Programming
 - [ ] 4.11: Try and Except Statements (7min)
 ## Section 5: Writing a Complete Program: Guess the Number
 - [ ] 5.12: Writing a "Guess the Number" Program (12min)
-## Section 6
+## Section 6: Lists
 - [ ] 6.13: The List Data Type (13min)
 - [ ] 6.14: For Loops with Lists, Multiple Assignment, and Augmented Operators (9min)
 - [ ] 6.15: List Methods (11min)
