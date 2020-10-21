@@ -1,4 +1,4 @@
-# This program says hello and asks for my name
+# Lesson 3: This program says hello and asks for my name
 
 print("Hello world")
 
@@ -13,3 +13,6 @@ print(len(myName))
 print("WHat is your age?") 
 myAge = input()
 print("You will be " + str(int(myAge) + 1) + ' in a year.')
+
+# You cannot concatinate a string and an in together
+# You cannot add a string to an int
